@@ -1,0 +1,29 @@
+div {   
+    float:left;
+    background-color:white;
+}
+
+.columna {
+    width:30%;
+}
+.primero {
+    width: 400px;
+    border: 7px solid  #00D1AE;
+    padding: 80px;
+    
+}
+
+.segundo {
+    width:400px;
+    border: 7px solid red;
+    padding: 30px;
+
+}
+
+.tercero {
+    width: 400px;
+    border: 5px solid yellow;
+    padding: 150px;
+    
+}
+
